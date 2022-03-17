@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "express": "^4.17.3"
-  }
+  },
+  "name": "current-quote-js-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mstarkRules/current-quote-nodejs-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mstarkRules/current-quote-nodejs-api/issues"
+  },
+  "homepage": "https://github.com/mstarkRules/current-quote-nodejs-api#readme",
+  "description": ""
 }
